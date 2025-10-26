@@ -1,7 +1,6 @@
 # VoxBiz 🔊📊
 
 > 🚀 AI-powered voice-to-visualization platform for real-time business insights  
-> 🏆 Built during HackToFuture 3.0 | Top 5 Finalist in Industry & Trade Track
 
 VoxBiz enables non-technical decision-makers to interact with their business databases using natural language — either through voice or text — and instantly see real-time data visualizations. From PostgreSQL queries to intelligent graph suggestions, VoxBiz transforms complex data retrieval into a seamless and intuitive experience.
 
